@@ -4,11 +4,16 @@ A minimalistic example of how to create a bundle of your server side code with W
 
 ## Build
 
+```
 $ npm install
 $ npm run build
+```
 
 ## Run
+
+```
 $ cd dist
 $ node server.bundle.js
+```
 
 Go to http://localhost:3000 in your browser
