@@ -1,5 +1,7 @@
 # Universal React Server Bundle with Webpack
-A minimalistic example of how to create a bundle of your server side code with Webpack 2, and use it in a Universal React application.
+A minimalistic example of how to create a bundle of your server side code with Webpack 3, and use it in a Universal React application.
+
+*Latest updated 2017-08-18*
 
 
 ## Build
