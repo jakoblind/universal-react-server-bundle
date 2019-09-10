@@ -14,7 +14,6 @@ $ npm run build
 ## Run
 
 ```
-$ cd dist
 $ node server.bundle.js
 ```
 
